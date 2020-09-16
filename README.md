@@ -13,7 +13,7 @@ Read each line of code line by line. Never assume, always check.
 * Code it written once, read many times.
 
 ##### Follow checklist
-This is a great checklist to follow [code review checklist](https://github.com/while1malloc0/code-review-checklist)
+This is a great checklist to follow [code review checklist](https://github.com/Attumm/code-review-checklist)
 
 ### Stay profesional
 ##### Use Egoless programming
