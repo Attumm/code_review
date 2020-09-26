@@ -3,7 +3,7 @@
 ### Technical
 ##### Read the code like a compiler
 * Read each line of code line by line. Never assume, always check.
-* Learn the [laws](https://github.com/dwmkerr/hacker-laws#kernighans-law) from grey beards.
+* Learn the [laws](https://github.com/Attumm/hacker-laws#laws) from grey beards.
 They have made all the mistakes before. 
 
 
