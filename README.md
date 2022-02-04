@@ -47,6 +47,13 @@ Live by [the ten commandments of egoless programming](https://blog.codinghorror.
 Make sure your comments don't fall under [law of triviality](https://en.wikipedia.org/wiki/Law_of_triviality).
 If the only thing you can suggest is change of variable name or something similarly small, maybe it's not important enough to change.
 
+
+### Arguments
+
+When argument arises try to focus as much as possible on the technical aspects.
+Try to make sure the argumentation style is not too harsh, and your argument is not a [fallacy](https://en.wikipedia.org/wiki/List_of_fallacies).
+Each argument has atleast two participants try to do your part in keeping it civil.
+
 ### Layout of great comment
 A great comment has three parts.
 
